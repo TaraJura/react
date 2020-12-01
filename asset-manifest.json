@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.4dd62fa1.chunk.css",
+    "main.js": "/react/static/js/main.6ba04ce4.chunk.js",
+    "main.js.map": "/react/static/js/main.6ba04ce4.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.7e2b35d0.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.7e2b35d0.js.map",
+    "static/js/2.0cb40182.chunk.js": "/react/static/js/2.0cb40182.chunk.js",
+    "static/js/2.0cb40182.chunk.js.map": "/react/static/js/2.0cb40182.chunk.js.map",
+    "static/js/3.66d52ee0.chunk.js": "/react/static/js/3.66d52ee0.chunk.js",
+    "static/js/3.66d52ee0.chunk.js.map": "/react/static/js/3.66d52ee0.chunk.js.map",
+    "index.html": "/react/index.html",
+    "static/css/main.4dd62fa1.chunk.css.map": "/react/static/css/main.4dd62fa1.chunk.css.map",
+    "static/js/2.0cb40182.chunk.js.LICENSE.txt": "/react/static/js/2.0cb40182.chunk.js.LICENSE.txt",
+    "static/media/EU.14268eed.png": "/react/static/media/EU.14268eed.png",
+    "static/media/FBIG.da4f0f93.png": "/react/static/media/FBIG.da4f0f93.png",
+    "static/media/ikona1.2352b7d3.svg": "/react/static/media/ikona1.2352b7d3.svg",
+    "static/media/ikona2.64145188.svg": "/react/static/media/ikona2.64145188.svg",
+    "static/media/ikona3.2047311f.svg": "/react/static/media/ikona3.2047311f.svg",
+    "static/media/ikona4.3680f365.svg": "/react/static/media/ikona4.3680f365.svg",
+    "static/media/silueta1.c5a3116e.svg": "/react/static/media/silueta1.c5a3116e.svg",
+    "static/media/App.css": "/react/static/media/silueta2.d27fc9fe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e2b35d0.js",
+    "static/js/2.0cb40182.chunk.js",
+    "static/css/main.4dd62fa1.chunk.css",
+    "static/js/main.6ba04ce4.chunk.js"
+  ]
+}
